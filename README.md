@@ -15,7 +15,7 @@ A blog post showcasing the results can be found here: https://medium.com/@jakob.
 
 
 
-Motivation:
+# Motivation
 
 After a few years on the job, many programmers are faced with various job offers where they take on more responsibility for staff or management positions.
 However, this is not always a decision made solely because of a change in interest or a new passion. The higher salary that comes with such positions can also be a motivating factor. We want to learn more about their motivations and why they chose such a path.
