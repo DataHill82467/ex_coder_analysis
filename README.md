@@ -1,4 +1,4 @@
-# ex_coder_analysis
+# Readme ex_coder_analysis
 This is an analysis of the Stack Overflow Data: https://www.kaggle.com/stackoverflow/so-survey-2017
 
 Files:
@@ -21,7 +21,7 @@ After a few years on the job, many programmers are faced with various job offers
 However, this is not always a decision made solely because of a change in interest or a new passion. The higher salary that comes with such positions can also be a motivating factor. We want to learn more about their motivations and why they chose such a path.
 
 -----------------
-Research questions:
+# Research questions
 
 Research Question 1: Would former programmers return to programming if it weren’t for the money?
 
@@ -32,7 +32,7 @@ Research Question 3: Are ex-coders who would still consider coding, happy with t
 Research Question 4: What are the best predictors?
 
 -----------------
-Conclusion:
+# Conclusion
 
 It looks like active programming will remain a motivation throughout your career. If you are one of those people who would like to start programming again but won’t because of the higher salary you earn today, you might stay in your current job but find hobbies related to programming or start a side project.
 Don’t stay miserable! The data shows that you are probably ready to learn new technologies. So it’s always possible that you’ll learn a new programming language on the side.
